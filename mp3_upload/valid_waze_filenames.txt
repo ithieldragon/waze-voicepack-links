@@ -4,6 +4,7 @@
 400meters.mp3
 800.mp3
 800meters.mp3
+1000.mp3 - new 0.6 miles announcement, tested, works.
 1000meters.mp3
 1500.mp3
 1500meters.mp3
